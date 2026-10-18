@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@expo/ui": "~57.0.25",
+    "@shopify/react-native-skia": "2.6.2",
     "expo": "~57.0.30",
     "expo-constants": "~57.0.22",
     "expo-device": "~57.0.2",
@@ -39,5 +40,8 @@
     "web": "expo start --web",
     "lint": "expo lint"
   },
-  "private": true
+  "private": true,
+  "allowScripts": {
+    "@shopify/react-native-skia@2.6.2": true
+  }
 }
