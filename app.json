@@ -1,10 +1,10 @@
 {
   "expo": {
+    "orientation": "landscape",
     "name": "space-impact",
     "slug": "space-impact",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+
     "scheme": "spaceimpact",
     "userInterfaceStyle": "automatic",
     "ios": {
@@ -20,7 +20,8 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "output": "static",
+      "bundler": "metro",
+      "output": "single",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
