@@ -1,10 +1,10 @@
 # 🚀 Space Impact
 
-Um remake moderno, multiplataforma e inspirado nos clássicos jogos **Space Impact** dos celulares Nokia.
+Um remake moderno, multiplataforma e inspirado no clássico jogo **Space Impact** dos celulares Nokia antigos (tijolões).
 
 Este projeto está sendo desenvolvido com **React Native**, **Expo**, **Expo Router** e **React Native Skia** para criar uma experiência arcade simples, responsiva e nostálgica, executável na **web**, no **Android** e no **iOS**.
 
-> ⚠️ O projeto está em desenvolvimento. A versão atual contém a base jogável: uma nave em um canvas, movimentação horizontal e suporte aos principais ambientes. Inimigos, tiros, colisões, pontuação e fases ainda podem ser adicionados.
+> ⚠️ O projeto está em desenvolvimento. A versão atual contém a base jogável: uma nave em um canvas, movimentação horizontal e suporte aos principais ambientes. Inimigos, tiros, colisões, pontuação e fases ainda serão adicionados.
 
 ## ✨ Destaques
 
@@ -35,7 +35,7 @@ No momento, o jogo possui:
 - Interação por `Gesture.Pan` em dispositivos móveis.
 - Interação por teclado usando `requestAnimationFrame` na versão web.
 
-### Próximas evoluções sugeridas
+### Próximas evoluções
 
 - 👾 Adicionar inimigos e padrões de movimentação.
 - 🔫 Implementar disparos da nave.
